@@ -1,0 +1,24 @@
+#p1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 20px;
+    -webkit-line-clamp: 1;
+     display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+#p2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 20px;
+    -webkit-line-clamp: 2;
+     display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+#ques1{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 20px;
+    -webkit-line-clamp: 2;
+     display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
